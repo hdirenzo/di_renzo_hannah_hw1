@@ -3,5 +3,23 @@
     padding: 0%;
     margin: 0%;
     box-sizing: border-box;
-    
+
+}
+
+.hidden { display: none;}
+.main-heading {color: green; cursor: pointer;}
+
+#svg-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto;
+    grid-gap: 20px;
+}
+
+.container {
+    display: flex;
+}
+
+h2 {
+    <!------------fonts-------!>
 }
