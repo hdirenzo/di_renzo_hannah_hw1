@@ -3,7 +3,9 @@
     grid-template-columns: repeat(5, 1fr);
   }
   .icons {
-    margin: 100px;
+    margin-left: 100px;
+    margin-right: 110px;
+    ;
   }
 
 h1 {
