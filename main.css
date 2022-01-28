@@ -1,25 +1,25 @@
-* {
-    border: none;
-    padding: 0%;
-    margin: 0%;
-    box-sizing: border-box;
-
-}
-
-.hidden { display: none;}
-.main-heading {color: green; cursor: pointer;}
-
-#svg-grid {
+.icons {
     display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-template-rows: auto;
-    grid-gap: 20px;
-}
+    grid-template-columns: repeat(5, 1fr);
+  }
+  .icons {
+    margin: 100px;
+  }
 
-.container {
-    display: flex;
-}
+h1 {
+    font-family: 'DotGothic16', sans-serif;
+font-family: 'Poller One', cursive;
+font-size: 80px;
+margin-top: 40px;
+margin-left: 350px;
+text-shadow: 4px 4px 7px rgb(90, 133, 69);
+} 
 
 h2 {
-    <!------------fonts-------!>
+    font-family: 'DotGothic16', sans-serif;
+font-family: 'Poller One', cursive;
+font-family: 'Wire One', sans-serif;
+font-size: 60px;
+margin-left: 615px;
 }
+
